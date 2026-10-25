@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agri-Insight Beacon
 
 ## Project Title
@@ -97,3 +98,6 @@ docker compose up -d
 
 ## Collaborators
 This repository has invited `insa-ctc-devhub` as a collaborator as required for CTC/INSA review.
+=======
+# agri-insight
+>>>>>>> 6ea3fe85b5280bf267c8c73d083d37d94f9b66c9
